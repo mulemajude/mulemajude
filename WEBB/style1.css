@@ -1,0 +1,100 @@
+.fa-square-twitter{
+	color:#052d9c;
+	font-size:60px;
+	
+}
+body{
+	background-color:pink;
+}
+.d{ 
+	background-color::dodgerblue;
+	font-size:20px;
+}
+p{
+	background-color:#b015ab;
+	font-size:20px;
+}
+.a{
+	text-align:center;
+	text-indent:5px;
+	background-color:dodgerblue;
+	font-weight:bold;
+}
+.b{
+	text-decoration:line through;
+	text-shadow:3px 2px red;
+	background-color:green;
+	letter-spacing:5px;
+	text-align:justify;
+	
+}
+.c{
+	text-transform:uppercase;
+	text-decoration:line-through;
+	font-family:Arial;
+	font-style:italic;
+}
+.d{
+	text-align:center;
+	background-color:dodgerblue;
+	text-shadow:3px 2px red;
+	font-family:Elphant;
+}
+.e{
+	letter-spacing:5px;
+	background-color:dodgerblue;
+	text-decoration:line through;
+	font-style:italic;
+	text-shadow:3px 2px yellow;
+}
+.a1{
+	display:block;
+	border:3mm block red;
+	font-size:1em;
+	width:100vw;
+	height:20vw;
+	margin-right:40%;
+	letter-spacing:2pt;
+	background-color:#621A6B;
+	
+}
+.b1{
+	padding-right:5vw;
+	margin-bottom:40%;
+	letter-spacing:15pt;
+	line-height:6vw;
+	display:grid;
+	font-style:italic;
+}
+.c1{
+	background-color:blue;
+	width:10ch;
+	height:15ch;
+	padding-top:15px 4em;
+	margin:5vwin;
+	font-family:Verdana;
+	line-height:3px;
+	display:inline;
+}
+.d1{
+		font-family:Verdana;
+	line-height:3px;
+	display:inline;
+	background-color:#B99c29;
+}
+.e1{
+	padding-top:15px 4em;
+	margin:5vwin;
+	font-family:Verdana;
+	line-height:3px;
+	display:inline;
+	letter-spacing:15pt;
+}
+.f1{
+	border:3mm block red;
+	font-size:1em;
+	width:100vw;
+	height:20vw;
+	display:overline;
+	background-color:#B99c29;
+}
